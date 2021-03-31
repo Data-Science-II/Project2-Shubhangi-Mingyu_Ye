@@ -6,7 +6,14 @@ Shubhangi Rai-   Forward , Backward , Stepwise Regression, L1, L2 Regularization
 
 Report done for the work done
 
-Configuration to Setup: Install Python Version 3.7 Libraries included and needed to be installed in Python 1. Scikit learn 2. Pandas 3. NumPy  4. Tensorflow. 5. Keras
+Configuration to Setup: 
+Install Python Version 3.7 
+Libraries included and needed to be installed in Python 
+1. Scikit learn 
+2. 2. Pandas 
+3. 3. NumPy  
+4. 4. Tensorflow. 
+5. 5. Keras
 
 How to run?
 
