@@ -25,8 +25,12 @@ Data Sets used- Downloaded data sets from UCI Machine Learning Repository
 1.AutoMPG 2.Concrete 3.Forest-fires 4.SkillCraft1.Dataset 5. Bias_correction_ucl
 
 
+Mingyu Sun- Forward, Backward, Stepwise Regression for TranRegression, Perceptron Model, 3 Layers Neural Network and XL-Neural Network models with scalation.
+Download project2.scala, PredictorMat.scala, PredictorMat2.scala, NeuralNet_XL.scala replace the PredictorMat.scala, PredictorMat2.scala, NeuralNet_XL.scala and add project2.scala under scalation_1.6/scalation_modeling/src/main/scala/scalation/analytics. The whole project2 should be run inside scalation_1.6, with the following code
 
+cd scalation_1.6 $ ./build_all.sh cd scalation_modeling sbt runMain scalation.analytics.the_object
 
+TranRegressionsel includes Forward, Backward, Stepwise Regression, similar for Perceptronsel, NeuralNet_3Lsel, NeuralNet_XLsel
 
 
 
