@@ -32,6 +32,8 @@ cd scalation_1.6 $ ./build_all.sh cd scalation_modeling sbt runMain scalation.an
 
 TranRegressionsel includes Forward, Backward, Stepwise Regression, similar for Perceptronsel, NeuralNet_3Lsel, NeuralNet_XLsel
 
+(the report "report_first_draft_Sun" is only the first draft, Shubhangi and Ye may upload the final version.)
+
 
 
 
