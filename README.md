@@ -32,7 +32,7 @@ cd scalation_1.6 $ ./build_all.sh cd scalation_modeling sbt runMain scalation.an
 
 TranRegressionsel includes Forward, Backward, Stepwise Regression, similar for Perceptronsel, NeuralNet_3Lsel, NeuralNet_XLsel
 
-Ye Tian- Ridge and Lasso Regression for TranRegression in python, tried forward and backward regression with help from Shubhangi, but unsuccessful; 4 Layers Neural Network model in scalation for Forward, Backward, Stepwise feature selection. (I was in charge of working on NNXL on scalation, but Mingyu also did that part. I also did my work on PredictorMat2.scala and NeuralNetXL.scala within scalation 1.6, but in order to distinguish from her file, I change the filename to PredictorMat3.scala and NeuralNetXL1.scala, respectively. To run the two files, it would be better to replace PredictorMat2.scala and NeuralNetXL.scala if they are already in scalation 1.6)
+Ye Tian- Transformed Ridge Regression in python, tried forward and backward regression with help from Shubhangi, but unsuccessful; 4 Layers Neural Network model in scalation for Forward, Backward, Stepwise feature selection. (I was in charge of working on NNXL on scalation, but Mingyu also did that part. I also did my work on PredictorMat2.scala and NeuralNetXL.scala within scalation 1.6, but in order to distinguish from her file, I change the filename to PredictorMat3.scala and NeuralNetXL1.scala, respectively. To run the two files, it would be better to replace PredictorMat2.scala and NeuralNetXL.scala if they are already in scalation 1.6)
 
 To run the scalation code, simply cd to the scalation_modeling and enter: sbt compile runMain scalation.analytics.object
 
